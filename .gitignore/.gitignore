@@ -1,0 +1,12 @@
+checkpoints_lovasz/
+checkpoints_lovasz_next/
+checpoints_last/
+__MACOSX/
+__pycache__/
+test/
+train/
+train_mask/
+сheckpoints_next/
+сheckpoints_next_n.2/
+sample_submission.csv
+sub.csv
