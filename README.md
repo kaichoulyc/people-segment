@@ -1,6 +1,6 @@
 # people-segment
 
-[Leaferboard](https://picsart.ai/ru/leaderboard)
+[Leaderboard](https://picsart.ai/ru/leaderboard)
 
 Example of work
 
